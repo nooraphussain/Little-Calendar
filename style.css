@@ -32,7 +32,7 @@
       background-size: cover;
       background-repeat: no-repeat;
       background-position: center;
-      opacity: 0.8;
+      opacity: 0.5;
   }
   
   button,
@@ -59,10 +59,10 @@
       color: var(--white, #FFF);
   
       /* text styling */
-      font-family: Pixeboy;
+      font-family: "Pixelify Sans";
       font-size: 1rem;
       font-style: normal;
-      font-weight: 400;
+      font-weight: 600;
       line-height: normal;
   
   }
@@ -83,7 +83,7 @@
       }
   
       @font-face {
-        font-family: "Pixeboy";
+        font-family: "Pixelify Sans";
         src: url("../assets/fonts/Pixeboy.ttf") format("truetype");
         font-weight: normal;
         font-style: normal;
@@ -95,7 +95,7 @@
         -webkit-text-stroke-width: 1.5px;
         -webkit-text-stroke-color: var(--mid-purple, #B58CD9);
       
-        font-family: "Pixeboy", sans-serif;
+        font-family: "Pixelify Sans", sans-serif;
         font-size: 8.5rem;
         font-style: normal;
         font-weight: 400;
