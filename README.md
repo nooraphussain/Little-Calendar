@@ -19,10 +19,12 @@ This project is part of my first journey into building an **Electron app**.
 
 ## Installation
 
-1. Clone the repository:
+1. Make sure you've all the node files installed locally. (Those large files are not pushed to git)
+2. Clone the repository:
 
 ```bash
 git clone https://github.com/nooraphussain/Little-Calendar.git
+
 <img width="227" height="239" alt="Screenshot 2026-03-06 at 16 58 16" src="https://github.com/user-attachments/assets/c96db893-f84a-485e-aa0c-8bafecdbd36d" />
 
 
